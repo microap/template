@@ -1,5 +1,5 @@
 import { Component } from 'react'
-import { View, Text, Navigator } from '@tarojs/components'
+import { View, Text } from '@tarojs/components'
 import './index.scss'
 
 export default class Index extends Component {
@@ -17,8 +17,7 @@ export default class Index extends Component {
   render () {
     return (
       <View className='index'>
-        <Text>aaaaa!</Text>
-        <Navigator url="/__pages/index/index">去容器页面</Navigator>
+        <Text>aasdgfg 112</Text>
       </View>
     )
   }
