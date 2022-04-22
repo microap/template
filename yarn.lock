@@ -1223,10 +1223,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@microap/container@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.npmjs.org/@microap/container/-/container-1.0.7.tgz#207d1bf8e1ea8093bc7db37779e10ef86a667407"
-  integrity sha512-C0RVDnTtECXd59pT7cvu+Y7ZsENg+mDouka3QJN7NNrOzFK+n7LIm8PSn+bGEM0vkOUL0RQhhu+kC3iiTKzwSA==
+"@microap/container@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.npmjs.org/@microap/container/-/container-1.0.10.tgz#cfc5cb16636ef5c82131946c9f4ba4a4994cd0e6"
+  integrity sha512-vW7N9SUiatzwB32ZS1ekvEei+l1bFHcKAIiE3OgPnMy40JzlMiiKjkFrYdEajIXk5GinXRsrAS0SZtlG7/7EAg==
   dependencies:
     "@babel/runtime" "^7.7.7"
     "@tarojs/components" "3.4.7"
@@ -1234,7 +1234,6 @@
     "@tarojs/react" "3.4.7"
     "@tarojs/runtime" "3.4.7"
     "@tarojs/taro" "3.4.7"
-    minimist "^1.2.6"
     react "^17.0.0"
     react-dom "^17.0.0"
 
